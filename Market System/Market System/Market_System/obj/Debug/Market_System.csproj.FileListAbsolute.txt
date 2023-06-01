@@ -1,0 +1,16 @@
+F:\Market System\Market_System\bin\Debug\Market_System.exe.config
+F:\Market System\Market_System\bin\Debug\Market_System.exe
+F:\Market System\Market_System\bin\Debug\Market_System.pdb
+F:\Market System\Market_System\bin\Debug\Guna.UI2.dll
+F:\Market System\Market_System\obj\Debug\Market_System.csproj.AssemblyReference.cache
+F:\Market System\Market_System\obj\Debug\Market_System.LoginForm.resources
+F:\Market System\Market_System\obj\Debug\Market_System.Properties.Resources.resources
+F:\Market System\Market_System\obj\Debug\Market_System.csproj.GenerateResource.cache
+F:\Market System\Market_System\obj\Debug\Market_System.csproj.CoreCompileInputs.cache
+F:\Market System\Market_System\obj\Debug\Market_System.csproj.CopyComplete
+F:\Market System\Market_System\obj\Debug\Market_System.exe
+F:\Market System\Market_System\obj\Debug\Market_System.pdb
+F:\Market System\Market_System\obj\Debug\Market_System.Category.resources
+F:\Market System\Market_System\obj\Debug\Market_System.Product.resources
+F:\Market System\Market_system\obj\Debug\Market_System.Seller.resources
+F:\Market System\Market_system\obj\Debug\Market_System.Selling.resources
